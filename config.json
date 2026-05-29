@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicedpdate",
+        "uuid": 404,
+        "checksum": "mhd2w"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
